@@ -32,6 +32,8 @@
     "jsonwebtoken": "^8.5.1"
   },
   "jest": {
-    "setupFilesAfterEnv": ["jest-extended"]
+    "setupFilesAfterEnv": [
+      "jest-extended"
+    ]
   }
 }
